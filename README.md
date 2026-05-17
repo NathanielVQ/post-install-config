@@ -75,9 +75,8 @@ Departments and teams are created to organize support staff and manage ticket as
 <br />
 
 <h3>Step 3: Create Agents and Users</h3>
-  <img width="892" height="352" alt="image" src="https://github.com/user-attachments/assets/ded6a473-eb15-4ebc-859b-2c2444d9f233" />
 <p align="center">
-  
+  <img width="892" height="352" alt="image" src="https://github.com/user-attachments/assets/ded6a473-eb15-4ebc-859b-2c2444d9f233" />
 </p>
 
 <p>
