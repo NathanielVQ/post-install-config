@@ -53,7 +53,7 @@ This tutorial walks through the essential post-installation configuration steps 
 <h3>Step 1: Configure Roles and Permissions</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Roles Configuration"/>
+  <img width="897" height="685" alt="image" src="https://github.com/user-attachments/assets/01b9e561-9bfb-49dd-a673-4e1c7106675f" />
 </p>
 
 <p>
@@ -65,7 +65,7 @@ Roles are configured within the osTicket admin panel to define the permissions a
 <h3>Step 2: Create Departments and Teams</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Departments and Teams"/>
+  <img width="892" height="340" alt="image" src="https://github.com/user-attachments/assets/55813c9e-2f52-4284-ad3b-2ad009ef4268" />
 </p>
 
 <p>
@@ -75,9 +75,9 @@ Departments and teams are created to organize support staff and manage ticket as
 <br />
 
 <h3>Step 3: Create Agents and Users</h3>
-
+  <img width="892" height="352" alt="image" src="https://github.com/user-attachments/assets/ded6a473-eb15-4ebc-859b-2c2444d9f233" />
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Agents and Users"/>
+  
 </p>
 
 <p>
@@ -89,7 +89,7 @@ Support agents and end users are added to the system through the osTicket admin 
 <h3>Step 4: Configure SLA Plans and Help Topics</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="SLA Plans"/>
+  <img width="887" height="427" alt="image" src="https://github.com/user-attachments/assets/fea0fe61-777f-4d44-9620-866594d4b20f" />
 </p>
 
 <p>
